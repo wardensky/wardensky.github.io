@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      vim中大小写转化
+category: blog
+description: vim中大小写转化
+---
+
+
+
 ###vim中大小写转化
 @(编程)
 
