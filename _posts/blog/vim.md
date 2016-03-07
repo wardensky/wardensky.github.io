@@ -5,7 +5,7 @@ category: blog
 description: vim中大小写转化
 ---
 
-
+[wardensky]:    http://wardensky.github.io/vim
 
 ###vim中大小写转化
 @(编程)
